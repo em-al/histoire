@@ -1,0 +1,17 @@
+body {
+
+background-color: lavender;
+
+ } 
+#histoire {     
+        width: 250px;
+        height: 80px;
+        border: black 1px dashed;
+        background-color: #E9CDEE;
+        overflow-x: hidden;
+        overflow-y: scroll; 
+        padding: 5px;
+        text-align: center;
+        margin-left: 10px;
+      }
+      
